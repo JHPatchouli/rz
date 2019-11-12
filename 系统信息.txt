@@ -1,0 +1,98 @@
+计算机
+Dell Inc. G3 3590
+
+    System ManufacturerDell Inc.
+    System ModelG3 3590
+    System TypeMobile
+    Motherboard ManufacturerDell Inc.
+    Motherboard Product0VFVNR
+    BIOS Version1
+    SMBIOS Version3.2
+    Secure BootOn
+
+操作系统
+Microsoft Windows 10 专业工作站版 (64 位)
+
+    Version1903
+    OS Build10.0.18362
+    Build Branch19h1_release
+    Locale中文(简体，中国)
+    Windows DirectoryC:\WINDOWS
+    System DirectoryC:\WINDOWS\system32
+    .NET Framework Versions2.0.50727.4927, 3.0.30729.4926, 3.5.30729.4926, 3.5.30729.5003, 4.0.0.0, 4.8.03752
+    Default Internet BrowserInternet Explorer 11.418.18362.0
+    Installed Internet BrowsersMozilla Firefox, Google Chrome, Internet Explorer 11.418.18362.0
+
+处理器
+Intel® Core™ i5-9300H CPU @ 2.40GHz
+
+    ManufacturerGenuineIntel
+    DescriptionIntel64 Family 6 Model 158 Stepping 10
+    Architecturex64
+    # of Cores4
+    # of Threads8
+    Processor Base Frequency2400 MHz
+    Current Voltage8.
+    Level 2 Cache1024 Kb
+    Level 3 Cache8192 Kb
+    Processor Id0x906EA
+    AvailabilityRunning at full power
+    搜索对“Intel® Core™ i5-9300H”的支持
+
+显卡
+Intel® UHD Graphics 630
+英特尔®显卡-Windows® 10 DCH 驱动程序最新的版本: x.x.x.7372
+安装版本: x.x.x.6617
+
+
+    Adapter CompatibilityIntel Corporation
+    Video ProcessorIntel® UHD Graphics Family
+    Resolution1920 x 1080
+    Bits Per Pixel32
+    Number of Colors4294967296
+    Refresh Rate - Current59 Hz
+    Refresh Rate - Maximum59 Hz
+    Refresh Rate - Minimum48 Hz
+    Driver ProviderIntel Corporation
+    Driver Version25.20.100.6617
+    Driver Date2019/3/8
+    Adapter DAC TypeInternal
+    Adapter RAM1.00 GB
+    AvailabilityRunning at full power
+    StatusThis device is working properly.
+    LocationPCI bus 0, device 2, function 0
+    Device IdPCI\VEN_8086&DEV_3E9B&SUBSYS_09491028&REV_00\3&11583659&0&10
+    搜索对“Intel® UHD Graphics 630”的支持
+
+NVIDIA GeForce GTX 1650
+音频
+英特尔® 显示器音频
+
+    Driver ProviderIntel® Corporation
+    Driver Version10.26.0.6
+    Driver Date2019/1/8
+    Device IdINTELAUDIO\FUNC_01&VEN_8086&DEV_280B&SUBSYS_80860101&REV_1000\4&2AEB1472&1&0201
+
+英特尔® 智音技术
+
+    Driver ProviderIntel® Corporation
+    Driver Version10.23.0.2903
+    Driver Date2019/8/29
+    Device IdINTELAUDIO\CTLR_DEV_A348&LINKTYPE_02&DEVTYPE_01&VEN_8086&DEV_AE20&SUBSYS_10280949&REV_10EC\5&1D127FA7&0&0100
+
+Steam Streaming Microphone
+
+    Driver ProviderValve Corporation
+    Driver Version8.33.15.17
+    Driver Date2017/7/28
+    Device IdROOT\STEAMSTREAMINGMICROPHONE\0000
+
+NVIDIA High Definition Audio
+Steam Streaming Speakers
+NVIDIA Virtual Audio Device (Wave Extensible) (WDM)
+Realtek Audio
+
+    Driver ProviderRealtek Semiconductor Corp.
+    Driver Version6.0.8781.1
+    Driver Date2019/8/20
+    Device IdINTELAUDIO\FUNC_01&VEN_10EC&DEV_0295&SUBSYS_10280949&REV_1000\4&2AEB1472&1&0001

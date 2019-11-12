@@ -1,0 +1,386 @@
+-------------------------------
+Live2DViewerEX Log
+-------------------------------
+
+Time: 2019/11/12 11:27:01
+OS Version: Microsoft Windows NT 10.0.18362.0
+App Version: 2.7.1.0
+
+-------------------------------
+Configuration
+-------------------------------
+
+Language: 0
+StartWithOS: 0
+LaunchMode: 0
+DesktopPosition: 0
+MonitorIndex: -1
+DesktopArea: 0
+AppFullscreenPause: 1
+AppMaxmizedPause: 0
+GraphicAPI: 0
+OBSCompat: False
+DesktopIconAlpha: 255
+DesktopType: 0
+WindowWidth: 800
+WindowHeight: 600
+IPAddress: 0
+DefaultPort: 10086
+
+-------------------------------
+Window Info
+-------------------------------
+
+Screens
+- 1: 1920x1080 "\\.\DISPLAY1"
+
+TargetWindows
+- 0x0002017E
+- 0x00010224
+- 0x00010222
+- 0x00010182
+- 0x00010184
+
+
+-------------------------------
+Window Tree
+-------------------------------
+
+0x00010118 "" Shell_TrayWnd
+  0x0001011E "开始" Start
+  0x00010122 "在这里输入你要搜索的内容" TrayButton
+  0x00010126 "与 Cortana 交流" TrayButton
+  0x00010136 "任务视图" TrayButton
+  0x00010166 "" ReBarWindow32
+    0x00010174 "运行中的应用程序" MSTaskSwWClass
+  0x0001013A "" TrayNotifyWnd
+    0x0001013C "" Button
+    0x00010146 "系统升级的通知区域" ToolbarWindow32
+    0x00010148 "" SysPager
+    0x0001014C "任务栏输入指示" TrayInputIndicatorWClass
+    0x00010156 "系统时钟, 11:26" TrayClockWClass
+    0x0001015A "操作中心" TrayButton
+    0x0001015E "" TrayShowDesktopButtonWClass
+0x000C0818 "设定" WindowsForms10.Window.8.app.0.141b42a_r34_ad1
+  0x002E0714 "" WindowsForms10.SysTabControl32.app.0.141b42a_r34_ad1
+    0x00240B9A "通用" WindowsForms10.Window.8.app.0.141b42a_r34_ad1
+0x000C05F2 "新建文件夹" CabinetWClass
+  0x000C0812 "UIRibbonDockTop" UIRibbonCommandBarDock
+    0x000B080E "Ribbon" UIRibbonCommandBar
+  0x0006070C "" WorkerW
+    0x000A0628 "" ReBarWindow32
+  0x0009086A "新建文件夹" ShellTabWindowClass
+    0x0017076A "" DUIViewWndClassName
+    0x00080828 "" WorkerW
+0x00080A1E "Bandicam (未注册版)" Bandicam2.x
+  0x002909D2 "" #32770
+    0x000D09FA "" Edit
+    0x00070702 "" Edit
+    0x000406FA "" Edit
+0x00040356 "" MISP_TRAYUI_CLASSNAME_STR
+0x000903FA "GeForce Experience" CEFCLIENT
+  0x004B0B2E "" CefBrowserWindow
+    0x000805FA "" Chrome_WidgetWin_0
+0x003008EC "NVIDIA GeForce Overlay" CEF-OSC-WIDGET
+0x000B0514 "Steam" vguiPopupWindow
+0x000203BA "Alienware Command Center" ApplicationFrameWindow
+  0x000203B2 "" ApplicationFrameTitleBarWindow
+  0x000203C0 "" ApplicationFrameInputSinkWindow
+0x00090962 "Realtek Audio Console" Windows.UI.Core.CoreWindow
+0x00060936 "Realtek Audio Console" ApplicationFrameWindow
+  0x0004098A "" ApplicationFrameTitleBarWindow
+  0x00050988 "" ApplicationFrameInputSinkWindow
+0x000705E4 "Groove 音乐" Windows.UI.Core.CoreWindow
+0x000500F0 "Groove 音乐" ApplicationFrameWindow
+  0x0003025C "" ApplicationFrameTitleBarWindow
+  0x000705A2 "" ApplicationFrameInputSinkWindow
+0x000203E0 "Alienware Command Center" Windows.UI.Core.CoreWindow
+0x00010670 "Microsoft Store" Windows.UI.Core.CoreWindow
+0x000403DE "Microsoft Store" ApplicationFrameWindow
+  0x00010668 "" ApplicationFrameTitleBarWindow
+  0x0001066A "" ApplicationFrameInputSinkWindow
+0x0003056A "" ApplicationFrameWindow
+  0x0001058E "" ApplicationFrameTitleBarWindow
+  0x00010590 "" ApplicationFrameInputSinkWindow
+0x00030220 "" DesktopWallpaperManager
+0x000101D8 "" DummyDWMListenerWindow
+0x000101D2 "" EdgeUiInputTopWndClass
+0x000101BA "" DummyDWMListenerWindow
+0x000101B8 "" DummyDWMListenerWindow
+0x000202CA "Microsoft Text Input Application" Windows.UI.Core.CoreWindow
+0x00040AFE "" Internet Explorer_Hidden
+0x000509A6 "好友列表" SDL_app
+  0x00070A6A "" CefBrowserWindow
+    0x000503E2 "" Chrome_WidgetWin_0
+0x000905D2 "Mozilla Firefox" MozillaWindowClass
+0x000E09C0 "快捷方式" CabinetWClass
+  0x000E099A "UIRibbonDockTop" UIRibbonCommandBarDock
+    0x000709C8 "Ribbon" UIRibbonCommandBar
+  0x004509AE "" WorkerW
+    0x000C0A24 "" ReBarWindow32
+  0x000B0744 "快捷方式" ShellTabWindowClass
+    0x00070A68 "" DUIViewWndClassName
+    0x001E0AAC "" WorkerW
+0x00080AAE "Live2DViewerEX Control Panel" UnityWndClass
+0x00010222 "" WorkerW
+  0x00010182 "" SHELLDLL_DefView
+    0x00010184 "FolderView" SysListView32
+0x00010224 "" WorkerW
+  0x0034076E "UnityContainer" WindowsForms10.Window.8.app.0.141b42a_r34_ad1
+    0x002C0AB0 "Live2DViewerEX" UnityWndClass
+0x0002017E "Program Manager" Progman
+
+-------------------------------
+Tray
+-------------------------------
+
+[2019/11/12 11:11:19] ****** Tray started ******
+[2019/11/12 11:11:24] OnOpen
+[2019/11/12 11:11:25] Notify screen changed
+[2019/11/12 11:15:07] App Paused
+[2019/11/12 11:15:08] App Resumed
+[2019/11/12 11:17:25] App Paused
+[2019/11/12 11:17:45] App Resumed
+[2019/11/12 11:18:33] App Paused
+[2019/11/12 11:19:12] App Resumed
+[2019/11/12 11:19:17] App Paused
+[2019/11/12 11:19:24] App Resumed
+[2019/11/12 11:19:40] App Paused
+[2019/11/12 11:19:44] App Resumed
+[2019/11/12 11:19:45] App Paused
+[2019/11/12 11:19:53] App Resumed
+[2019/11/12 11:20:47] App Paused
+[2019/11/12 11:20:50] App Resumed
+[2019/11/12 11:22:26] App Paused
+[2019/11/12 11:22:28] App Resumed
+[2019/11/12 11:22:41] App Paused
+[2019/11/12 11:23:01] App Resumed
+
+-------------------------------
+Live2DViewerEX
+-------------------------------
+
+Initialize engine version: 2018.4.12f1 (59ddc4c59b4f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1650 (ID=0x1f91)
+    Vendor:   (null)
+    VRAM:     3072 MB
+    Driver:   26.21.14.3140
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.120 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.561700 ms
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 168.412600 ms
+ExServer Started: 127.0.0.1:10086
+ 
+(Filename: D:\unity\Runtime/Export/Debug.bindings.h Line: 45)
+
+[2019/11/12 11:11:24] Connection Open: tray
+ 
+(Filename: D:\unity\Runtime/Export/Debug.bindings.h Line: 45)
+
+
+Unloading 82 unused Assets to reduce memory usage. Loaded Objects now: 4201.
+Total: 4.068700 ms (FindLiveObjects: 0.411600 ms CreateObjectMapping: 0.128200 ms MarkObjects: 3.403900 ms  DeleteObjects: 0.124500 ms)
+
+[2019/11/12 11:11:25] SetCameraRect: BackgroundGroup_0 (x:0.00, y:0.00, width:1920.00, height:1080.00) (Screen: 1920,1080)
+ 
+(Filename: D:\unity\Runtime/Export/Debug.bindings.h Line: 45)
+
+[2019/11/12 11:11:26] Connection Open: controlpanel
+ 
+(Filename: D:\unity\Runtime/Export/Debug.bindings.h Line: 45)
+
+Curl error 35: Handshake failed. UnityTls error code: 7
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 74 unused Assets to reduce memory usage. Loaded Objects now: 4246.
+Total: 3.667400 ms (FindLiveObjects: 0.360100 ms CreateObjectMapping: 0.132400 ms MarkObjects: 3.103100 ms  DeleteObjects: 0.071100 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 374 unused Assets to reduce memory usage. Loaded Objects now: 5868.
+Total: 5.262400 ms (FindLiveObjects: 0.509900 ms CreateObjectMapping: 0.135000 ms MarkObjects: 4.366500 ms  DeleteObjects: 0.250300 ms)
+
+Wasapi Init Error: BASS_ERROR_FORMAT
+ 
+(Filename: D:\unity\Runtime/Export/Debug.bindings.h Line: 45)
+
+Wasapi Init Error: BASS_ERROR_FORMAT
+ 
+(Filename: D:\unity\Runtime/Export/Debug.bindings.h Line: 45)
+
+Wasapi Init Error: BASS_ERROR_FORMAT
+ 
+(Filename: D:\unity\Runtime/Export/Debug.bindings.h Line: 45)
+
+App Paused
+ 
+(Filename: D:\unity\Runtime/Export/Debug.bindings.h Line: 45)
+
+App Resumed
+ 
+(Filename: D:\unity\Runtime/Export/Debug.bindings.h Line: 45)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 242 unused Assets to reduce memory usage. Loaded Objects now: 4585.
+Total: 4.549900 ms (FindLiveObjects: 0.359700 ms CreateObjectMapping: 0.135400 ms MarkObjects: 3.696000 ms  DeleteObjects: 0.358000 ms)
+
+Wasapi Init Error: BASS_ERROR_FORMAT
+ 
+(Filename: D:\unity\Runtime/Export/Debug.bindings.h Line: 45)
+
+App Paused
+ 
+(Filename: D:\unity\Runtime/Export/Debug.bindings.h Line: 45)
+
+App Resumed
+ 
+(Filename: D:\unity\Runtime/Export/Debug.bindings.h Line: 45)
+
+App Paused
+ 
+(Filename: D:\unity\Runtime/Export/Debug.bindings.h Line: 45)
+
+App Resumed
+ 
+(Filename: D:\unity\Runtime/Export/Debug.bindings.h Line: 45)
+
+App Paused
+ 
+(Filename: D:\unity\Runtime/Export/Debug.bindings.h Line: 45)
+
+App Resumed
+ 
+(Filename: D:\unity\Runtime/Export/Debug.bindings.h Line: 45)
+
+App Paused
+ 
+(Filename: D:\unity\Runtime/Export/Debug.bindings.h Line: 45)
+
+App Resumed
+ 
+(Filename: D:\unity\Runtime/Export/Debug.bindings.h Line: 45)
+
+App Paused
+ 
+(Filename: D:\unity\Runtime/Export/Debug.bindings.h Line: 45)
+
+App Resumed
+ 
+(Filename: D:\unity\Runtime/Export/Debug.bindings.h Line: 45)
+
+App Paused
+ 
+(Filename: D:\unity\Runtime/Export/Debug.bindings.h Line: 45)
+
+App Resumed
+ 
+(Filename: D:\unity\Runtime/Export/Debug.bindings.h Line: 45)
+
+Wasapi Init Error: BASS_ERROR_FORMAT
+ 
+(Filename: D:\unity\Runtime/Export/Debug.bindings.h Line: 45)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 849 unused Assets to reduce memory usage. Loaded Objects now: 5875.
+Total: 7.114600 ms (FindLiveObjects: 0.760000 ms CreateObjectMapping: 0.247700 ms MarkObjects: 4.854400 ms  DeleteObjects: 1.251200 ms)
+
+App Paused
+ 
+(Filename: D:\unity\Runtime/Export/Debug.bindings.h Line: 45)
+
+App Resumed
+ 
+(Filename: D:\unity\Runtime/Export/Debug.bindings.h Line: 45)
+
+App Paused
+ 
+(Filename: D:\unity\Runtime/Export/Debug.bindings.h Line: 45)
+
+App Resumed
+ 
+(Filename: D:\unity\Runtime/Export/Debug.bindings.h Line: 45)
+
+Wasapi Init Error: BASS_ERROR_FORMAT
+ 
+(Filename: D:\unity\Runtime/Export/Debug.bindings.h Line: 45)
+
+Wasapi Init Error: BASS_ERROR_FORMAT
+ 
+(Filename: D:\unity\Runtime/Export/Debug.bindings.h Line: 45)
+
+
+-------------------------------
+Control Panel
+-------------------------------
+
+Initialize engine version: 2018.4.12f1 (59ddc4c59b4f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1650 (ID=0x1f91)
+    Vendor:   (null)
+    VRAM:     3072 MB
+    Driver:   26.21.14.3140
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.125 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.612200 ms
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 22c4 -> priority: 1 
+  Thread -> id: 930 -> priority: 1 
+  Thread -> id: 51f8 -> priority: 1 
+  Thread -> id: 104c -> priority: 1 
+UnloadTime: 5.437100 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 18206.
+Total: 16.189100 ms (FindLiveObjects: 1.463800 ms CreateObjectMapping: 1.249700 ms MarkObjects: 13.340300 ms  DeleteObjects: 0.133600 ms)
+
+
+-------------------------------
+EX Studio
+-------------------------------
+
+Initialize engine version: 2018.4.12f1 (59ddc4c59b4f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1650 (ID=0x1f91)
+    Vendor:   (null)
+    VRAM:     3072 MB
+    Driver:   26.21.14.3140
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.128 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.607100 ms
+[Steamworks.NET] SteamAPI_Init() failed. Refer to Valve's documentation or the comment above this line for more information.
+ 
+(Filename: D:\unity\Runtime/Export/Debug.bindings.h Line: 45)
+
+Curl error 42: Callback aborted
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 2438 -> priority: 1 
+  Thread -> id: 52c0 -> priority: 1 
+  Thread -> id: 2e04 -> priority: 1 
+  Thread -> id: 33e8 -> priority: 1 
+
+-------------------------------
+Service
+-------------------------------
+
+[2019/11/12 11:11:19] ****** Starting with mode 0 ******
+[2019/11/12 11:11:20] Start success
+
